@@ -348,8 +348,7 @@ See `requirements.txt` — typically includes: `earthengine-api`, `geemap`, `ras
 6. Run Cell 6 (rolling next-day GIF) and/or Cell 6b (multi-horizon).
 7. Optionally run Cell 7 (alternate GIF modes).
 
-## 📄 License / Attribution
-Specify a license (e.g., MIT) — currently unspecified. Cite data sources appropriately if publishing results.
+
 
 ## 🙋 Support
 Open an issue or extend the notebook with additional evaluation cells (e.g., spatial precision-recall curves). For productionization, consider refactoring feature assembly & modeling into reusable Python modules.
