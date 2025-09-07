@@ -1,7 +1,9 @@
 # Fire Spread Spatio-Temporal Prediction Pipeline
-![Uploading WhatsApp Image 2025-09-08 at 5.17.00 AM.jpeg…]()
+![Uploading WhatsApp Image 2025-09-08 at 5.17.00 AM (1).jpeg…]()
 
 
+
+Predict short-term (next 1-3 days) wildfire spread/burn probability over a Himalayan AOI(Uttrakhand) using daily Earth Engine datasets,stacked GeoTIFF exports, and tree-based machine learning.
 
 
 
