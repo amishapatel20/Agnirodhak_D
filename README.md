@@ -1,4 +1,6 @@
 # Fire Spread Spatio-Temporal Prediction Pipeline
+![Uploading test_risk_h1_any_burn.gif…]()
+
 
 Predict short-term (next 1–3 day) wildfire spread / burn probability over a Himalayan AOI (Pauri Garhwal) using daily Earth Engine datasets, stacked GeoTIFF exports, engineered lag features, and tree-based machine learning.
 
