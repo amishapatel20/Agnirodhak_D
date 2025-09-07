@@ -1,5 +1,7 @@
 # Fire Spread Spatio-Temporal Prediction Pipeline
-![Uploading test_risk_anyburn_rgb.gif…]()
+![Uploading WhatsApp Image 2025-09-08 at 5.17.00 AM.jpeg…]()
+
+
 
 
 
