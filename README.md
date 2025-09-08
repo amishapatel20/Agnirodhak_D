@@ -1,5 +1,5 @@
 # Fire Spread Spatio-Temporal Prediction Pipeline
-blob:https://web.whatsapp.com/e291867f-4be8-4c3c-b99d-d9bdf233eef8
+
 
 
 
