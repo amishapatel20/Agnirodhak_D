@@ -348,19 +348,5 @@ Usage is subject to Google Earth Engine terms. Heavy export loops should include
 ## 📦 Dependencies (summary)
 See `requirements.txt` — typically includes: `earthengine-api`, `geemap`, `rasterio`, `numpy`, `scipy`, `scikit-learn`, `matplotlib`, `imageio`.
 
-## ✅ Minimal Run Sequence
-1. Edit dates / AOI in Cell 1.
-2. Run Cells 1–2 (first run only for exports).
-3. Run Cell 3 (and 3b if reconstructing) then 3c for visuals.
-4. Run Cell 4 (feature engineering / labels).
-5. Run Cell 5 (training & metrics).
-6. Run Cell 6 (rolling next-day GIF) and/or Cell 6b (multi-horizon).
-7. Optionally run Cell 7 (alternate GIF modes).
 
-
-
-## 🙋 Support
-Open an issue or extend the notebook with additional evaluation cells (e.g., spatial precision-recall curves). For productionization, consider refactoring feature assembly & modeling into reusable Python modules.
-
----
 **Summary:** This project demonstrates an end-to-end, lag-aware, leakage-safe wildfire spread risk modeling workflow leveraging daily remote sensing + reanalysis data, with interpretable multi-horizon visualization outputs for rapid situational awareness.
